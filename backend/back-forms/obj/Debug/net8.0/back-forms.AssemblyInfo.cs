@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("back-forms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c24ff2583b634e584e54f43dc7a50c289f5f773d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d39efa39d549f6857c572ea06109b243b3d8ed2")]
 [assembly: System.Reflection.AssemblyProductAttribute("back-forms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("back-forms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
